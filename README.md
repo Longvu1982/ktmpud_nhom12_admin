@@ -1,4 +1,5 @@
 # Group 12 admin page
+Wordpress link: [https://et3260.wordpress.com/2022/11/13/nhom-12-project/](https://et3260.wordpress.com/2022/11/13/nhom-12-project/)
 Demo page: [https://ktmpud-nhom12-admin.vercel.app/](https://ktmpud-nhom12-admin.vercel.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
