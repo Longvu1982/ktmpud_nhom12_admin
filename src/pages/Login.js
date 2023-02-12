@@ -27,7 +27,6 @@ const Login = () => {
 		setLoading(true);
 		const userDocRef = doc(db, "users", adminName);
 		const docSnap = await getDoc(userDocRef);
-		console.log(docSnap?.data()?.role);
 		if (docSnap?.data()?.role === 2) {
 			signInWithEmailAndPassword(auth, adminName, password)
 				.then((user) => dispatch(login({ email: user.user.email, uid: user.user.uid })))

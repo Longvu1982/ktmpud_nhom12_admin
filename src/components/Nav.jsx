@@ -25,8 +25,8 @@ const Nav = () => {
 				</div>
 				<div className="mt-10 text-white">
 					<p className="mb-4 py-3 bg-[#6bc5c8c1] hover:opacity-60 cursor-pointer">Thông tin khách hàng</p>
-					<p className="mb-4 py-3 hover:opacity-60 hover:bg-[#6bc5c85d] cursor-pointer">Thông tin khách hàng</p>
-					<p className="mb-4 py-3 hover:opacity-60 hover:bg-[#6bc5c85d] cursor-pointer">Thông tin khách hàng</p>
+					{/* <p className="mb-4 py-3 hover:opacity-60 hover:bg-[#6bc5c85d] cursor-pointer">Thông tin khách hàng</p> */}
+					{/* <p className="mb-4 py-3 hover:opacity-60 hover:bg-[#6bc5c85d] cursor-pointer">Thông tin khách hàng</p> */}
 				</div>
 			</div>
 			<div
