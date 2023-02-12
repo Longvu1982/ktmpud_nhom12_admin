@@ -17,10 +17,7 @@ Run `npm i`
 
 ### Create env variable
 
-Create `.env` file in the root folder
-
-`REACT_APP_FIREBASE_KEY = "AIzaSyAfTPWUhiG_WpKk4tlwqN5ryTLCSJFwQ3A"
-REACT_APP_FIREBASE_APP_ID = "1:65607578846:web:82681d11efdb46c659be4f"`
+The `.env` file is already included
 
 *** Note that this ID is for researching purpose, do not use this for personal use
 
@@ -29,3 +26,24 @@ REACT_APP_FIREBASE_APP_ID = "1:65607578846:web:82681d11efdb46c659be4f"`
 
 Run `npm start`
 
+### Eample
+
+You can login with
+username:  `admin@admin.com`
+password: `admin123`
+
+![image](https://user-images.githubusercontent.com/89139559/218323994-858b3361-ad52-40b9-bdd3-43a2d058e59b.png)
+
+View all users and calendar, delete calendar
+
+![image](https://user-images.githubusercontent.com/89139559/218324035-bc1a9ed3-d481-431a-93d0-a16fb8e6561b.png)
+
+![image](https://user-images.githubusercontent.com/89139559/218324048-77d4c688-31db-4c98-a314-ce6bb3f8520d.png)
+
+Add new calendar
+
+![image](https://user-images.githubusercontent.com/89139559/218324060-fa1df950-6f19-4edc-9895-831b2d589145.png)
+
+Add new user
+
+![image](https://user-images.githubusercontent.com/89139559/218324070-a539cd8a-a62c-4fef-af44-3c07ec9c4081.png)
