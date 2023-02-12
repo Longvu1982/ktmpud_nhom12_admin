@@ -1,5 +1,5 @@
 # Group 12 admin page
-
+Demo page: [https://ktmpud-nhom12-admin.vercel.app/](https://ktmpud-nhom12-admin.vercel.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to set up
